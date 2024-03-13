@@ -26,7 +26,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left">I'm from Ankara/Keçiören<br><br>- 🔭 I’m currently working on minecraft plugins</p>
+<p align="left">I'm from ???<br><br>- 🔭 I’m currently working on minecraft plugins</p>
 <p align="left"> </p>
 
 
@@ -45,8 +45,6 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
