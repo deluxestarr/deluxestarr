@@ -8,7 +8,7 @@
   <a href="https://youtube.com/@minelyumprojects" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://discordapp.com/users/735244248538152970" target="_blank">
+  <a href="https://discordapp.com/users/1201975429335089232" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
